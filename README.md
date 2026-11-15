@@ -1,5 +1,7 @@
 # WSD Virtual Lab
 
+> **Group Project:** WSD Virtual Lab, a team project for the Work System Design & Virtual Reality Lab.
+
 A browser-based 3D version of the Work System Design & Virtual Reality Lab. Students walk
 around the lab (WASD + mouse), go up to a station and perform the experiment on a virtual
 copy of the apparatus. Readings, the learning curve and the report's leading questions are
